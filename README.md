@@ -4,7 +4,7 @@ Research
 Protobyte Library Development
 
 Author:
-Ira Greenberg
+Ira Greenberg | 
 Center of Creative Computation, Southern Methodist University, Dallas TX
 
 About:
